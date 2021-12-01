@@ -4,12 +4,14 @@
 
     This is an advanced seminar, designed for graduate and advanced undergraduate students currently involved in scientific research. The course is designed to reflect similar activities these students are likely to encounter in an academic career (e.g. as a postdoc, professor, researcher, etc) and match the pace of work in an academic environment. Students will learn two suites of skills: vector illustration and verbal slide presentation. The goal is to give them a solid foundation in the minimum number of tools necessary to produce effective visual illustrations and then have them practice using those visualizations while developing verbal presentation skills. The entire course is scaffolded, such that most initial assignments (awarded completion points) will be incorporated into future graded assignments.
 
-    The students are give the opportunity to shape their own learning by defining their own learning objectives early in the semester, guided by a one-on-one meeting with the professor. Additionally, course content will be tailored to the interest of the students based on the pre-course survey results and initial meetings.
+    The students are give the opportunity to shape their own learning by defining their own learning objectives early in the semester, guided by a one-on-one meeting with the professor. Additionally, course content will be tailored to the interest of the students based on the pre-course survey results and initial meetings. The plan is to convince Columbia (or whichever institution) to buy licenses for all the software, which will increase accessibility for the students. 
 
 **Meetings**:         Tuesdays and Thursdays 10am-noon<br>
 **Location**:          Schermerhorn Ext. 1012<br>
 **Instructor**:        Elissa Sorojsrisom ([ess2239@columbia.edu](mailto:ess2239@columbia.edu)) <br>
 **Office Hours**:   Mondays 2-4pm, Friday 9-11am or by appointment
+
+**Course Requirements**: You should be involved in research and interested in communication. You will need access to a computer and the ability to install software onto that computer. If this poses a challenge for you please reach out to the instructor, who will work with you to find a solution, 
 
 This is an advanced seminar, designed for no more than 12 students. The target audience is students involved in science research, although students from other disciplines may be admitted to the course. 
 
