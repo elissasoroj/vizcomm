@@ -30,6 +30,6 @@ A major outcome of this couse is to provide students with the tools, skills, and
 
 --
 
-![Biomechanics of Flight](/images/engn_figs.jpg)
+![Biomechanics of Flight](images/engn_figs.jpg)
 
 --
