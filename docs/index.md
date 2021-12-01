@@ -16,7 +16,7 @@
     * This survey is essentially the first assignment in the course and will lay the groundwork for future assignments, so take it seriously!
     * If you want some time to think, refer to this static copy of all the survey questions and references 
 
-    <center>[Take the Survey!](#){ .md-button }
+    <center>[Take the Survey!](https://docs.google.com/forms/d/e/1FAIpQLSe3_K9vHUlVOjbp5UNQI5ezz8xAPTMBVDZS9kwS8i68udNPNg/viewform?usp=sf_link){ .md-button }
 
 
 **Meetings**:         Tuesdays and Thursdays 10am-noon<br>

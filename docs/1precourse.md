@@ -4,7 +4,7 @@
 <span style="color:lightcoral;">*Due*</span>: by 10am on 9/7/2022 (Prior to the first class meeting) <br>
 <span style="color:cornflowerblue;">*Points*</span>: None, but completion is **mandatory**
 
-[Submit](#){ .md-button }
+[Submit](https://docs.google.com/forms/d/e/1FAIpQLSe3_K9vHUlVOjbp5UNQI5ezz8xAPTMBVDZS9kwS8i68udNPNg/viewform?usp=sf_link){ .md-button }
 </font>
 
 --
