@@ -11,11 +11,13 @@
 ## Instructions
 Fill out the Google Survey. Make sure you give each answer some thought, as your responses will help you on future assignments. 
 
-### Rubric
+## Rubric
+
+N/A
 
 ## Results
 
-
+*To be updated*
 
 ## Feedback
 

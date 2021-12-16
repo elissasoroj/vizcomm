@@ -6,6 +6,7 @@ This course is roughly broken up into two categories: <span style="color:cornflo
 This class meets for 2 hours twice a week. The first class period each week will cover <span style="color:cornflowerblue;">verbal communication</span> and the second will cover <span style="color:lightcoral;">visual communication</span> (i.e. illustration). 
 
 ![Weekly Schedule](images/weekly.png)
+<span class="caption">*Weekly Schedule*</span>
 
 As you can see, the instructor is available for drop-in office hours twice every week, or by appointment. You are *required* to attend in-person office hours at least once during the first two weeks to establish your additional learning objectives for the semester. Each students' unique learning objectives will be posted on the course website in the [People](/people/) section and will inform the feedback you recieve from your peers. If you cannot make the schedule office hours times, please email the instructor to arrange a time to meet. 
 
@@ -18,6 +19,7 @@ The calendar below lists the dates of each lecture (white) and assignments. Assi
 
 *Note:* Some lecture topics may be subject to change based on the interests of the students indicated in the pre-course survey!
 ![Semester Schedule](images/semester.png)
+<span class="caption">*Semester Schedule*</span>
 
 --
 

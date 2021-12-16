@@ -1,6 +1,7 @@
 # Course Expectations
 
 ## Students
+*Adherence to these expectations will affect your [Participation](/participation) Grade*
 - **Attend every class session\***
 - Take risks, embrace the possibility of failure
 - Turn off your cell phone during class

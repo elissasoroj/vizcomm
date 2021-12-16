@@ -16,6 +16,9 @@
 ![Biomechanics of Flight](images/trilobite.png)
 <span class="caption">*Trilobite Appendage by Elissa Sorojsrisom for Dr. Derek Briggs, Yale Peabody Museum.*</span>
 
+--
+## Details
+
 This is an advanced seminar, designed for no more than 12 students. The target audience is students involved in science research, although students from other disciplines may be admitted to the course. 
 
 A major outcome of this couse is to provide students with the tools, skills, and confidence to produce visuals and utilize them effectively in presentations of their research. 
