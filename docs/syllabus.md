@@ -11,7 +11,10 @@
 **Instructor**:        Elissa Sorojsrisom ([ess2239@columbia.edu](mailto:ess2239@columbia.edu)) <br>
 **Office Hours**:   Mondays 2-4pm, Friday 9-11am or by appointment
 
-**Course Requirements**: You should be involved in research and interested in communication. You will need access to a computer and the ability to install software onto that computer. If this poses a challenge for you please reach out to the instructor, who will work with you to find a solution, 
+**Course Requirements**: You should be involved in research and interested in communication. You will need access to a computer and the ability to install software onto that computer. If this poses a challenge for you please reach out to the instructor, who will work with you to find a solution.
+
+![Biomechanics of Flight](images/trilobite.jpg)
+<span class="caption">Trilobite Appendage by Elissa Sorojsrisom for Dr. Derek Briggs, Yale Peabody Museum.</span>
 
 This is an advanced seminar, designed for no more than 12 students. The target audience is students involved in science research, although students from other disciplines may be admitted to the course. 
 
