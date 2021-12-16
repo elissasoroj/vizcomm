@@ -22,19 +22,19 @@ This course is built on the idea that feedback and iteration are essential for e
 All visual deliverables recieve a *completion grade* for the first draft. Your illustration must meet minimum requirements laid out in the rubric for each assignment in order to earn completion points. You will recieve feedback on all of your assignments within a week of turning them in and  can incorporate these edited assignments into your final portfolio. 
 
 ### Presentations
-Each presentation will be graded with the final presentations worth twice as much as the first two. General expectations for presentations are outlinedd in the [Presentations](/Presentatitions/) section of the syllabus, but specifics will also be covered in class and provided via the [Assignments Module](/assignments/) ahead of presentation dates. Rubrics for each presentation will also be provided. 
+Each presentation will be graded with the final presentations worth twice as much as the first two. General expectations for presentations are outlinedd in the [Presentations](/presentations/) section of the syllabus, but specifics will also be covered in class and provided via the [Assignments Module](/assignments/) ahead of presentation dates. Rubrics for each presentation will also be provided. 
 
 ### Participation
-The participation grade reflects the verbal and written feedback you provide to your peers throughout the course. Specifics are provided in the [Participation](/participation) section.
+The participation grade reflects the verbal and written feedback you provide to your peers throughout the course. Specifics are provided in the [Participation](/vizcomm/participation/) section.
 
 ### Final Portfolio
-The purpose of completion grades throughout the semester is to give you the opportunity to refine your work and present it as a complete portfolio at the end of the term. Ideally, much of the work that will go into your final portfolio will be completed throughout the semester. For some of the work included in your portfolio, you will be required to write a summary of how you changed the wokr to incorporate feedback from the instrructor and your peers. Refer to the [Final Portfolio](/final/) section for completet details. 
+The purpose of completion grades throughout the semester is to give you the opportunity to refine your work and present it as a complete portfolio at the end of the term. Ideally, much of the work that will go into your final portfolio will be completed throughout the semester. For some of the work included in your portfolio, you will be required to write a summary of how you changed the wokr to incorporate feedback from the instrructor and your peers. Refer to the [Final Portfolio](/vizcomm/final/) section for completet details. 
 
 ## Assignment List
 
 This is a simplified list of the assignments, the points they are worth, the learning objectives (LOs) they address, and the preferred software for each assignment. **Bolded** assignments will be evaluated for a grade, the rest will recieve completion points. 
 
-More detail will be provided for each assignment in class and in the [Assignments Module](/assignments/) this website as they are assigned. Refer to the [Course Schedule](/structure/) for due dates. 
+More detail will be provided for each assignment in class and in the [Assignments Module](/vizcomm/assignments/) this website as they are assigned. Refer to the [Course Schedule](/vizcomm/structure/) for due dates. 
 
 
 | Name                       | Points | Grade % | LOs   | Preferred  | Alternative |

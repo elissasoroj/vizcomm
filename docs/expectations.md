@@ -1,7 +1,8 @@
 # Course Expectations
 
 ## Students
-*Adherence to these expectations will affect your [Participation](/participation) Grade*
+*Adherence to these expectations will affect your [Participation](/vizcomm/participation/) Grade*
+
 - **Attend every class session\***
 - Take risks, embrace the possibility of failure
 - Turn off your cell phone during class
@@ -9,7 +10,7 @@
 - Arrive on time and stay for the entire class period.
 - Come to class prepared, with all assignments for the day completed ahead of time and any peer review conducted thoughtfully, well in advance (not minutes before the start of class).
 - Engage actively throughout every class period. You are expected to actively work on course-related assignments during any in-class work time and provide feedback to your peers during and after their presentations.
-- Take your own learning seriously. You will help establish your goals for the end of the course and work towards them throughout. You will be evaluated on your own criteria as well as the general criteria outlined in the [Evaluation](/grading) section.
+- Take your own learning seriously. You will help establish your goals for the end of the course and work towards them throughout. You will be evaluated on your own criteria as well as the general criteria outlined in the [Evaluation](/vizcomm/grading/) section.
 - Improve your work by implementing feedback from your peers and the instructor
 - Discuss concerns after class or during office hours
 
@@ -21,7 +22,7 @@
 - Keep an open mind to the needs of students and the challenges they are experiencing throughout the course and provide support when needed
 - Turn off cell phone during class; no emailing
 - Makes availability for student questions and concerns 
-- Always open to recieving studdent feedback
+- Always open to recieving student feedback
 
 
 --

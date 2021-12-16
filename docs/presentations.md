@@ -7,12 +7,12 @@ Every presentation should be taken seriously and you should prepare for it accor
 You will give three presentations throughout the year, one in each of the following categories: narrative, persuasive, and informational. 
 
 ## Tips for Success
-1. Dress for success
+1. **Dress for success**<br>
 	This doesn't have to mean a suit or business-casual attire, but you should strive to look professional whenever you present. Remember, you are speaking to your audience as an authority on science and you want to command their respect. Dressing well won't just help your audience's perception of you, it'll make *you* feel more prepared and comfortable. **Pro Tip**: try to reflect some of your personality in they way you dress. 
-2. Prepare your slides well in advance
+2. **Prepare your slides well in advance**<br>
 	It is a running joke that all scientists go home early the night before their conference presentation to put their slides together. Don't be that person. Not only will you miss out on a great networking opportunity: drinking beer with your colleagues, you will be stressed, unable to prepare properly, and likely go to bed late. 
 	In this course, you will be required to upload your slides at before 5pm the day before each presentation. This counts towards your presentation grade. 
-3. Prepare your talking points
+3. **Prepare your talking points**<br>
 	In this course, we will walk through preparing outlines and scripts together - but in the wild you'll have to do this yourself. Make sure you prepare the amount of notes that is appropriate for your presentation style. Some people prefer general talking-point reminders so they can keep a casual, conversational tone while others (like myself) need to prepare entire scripts lest our minds go blank as we flounder under the blank stare of our audience. We will talk about differentt appproaches in lecture. 
 
 --
