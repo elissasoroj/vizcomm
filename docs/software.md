@@ -7,7 +7,7 @@ Due to time constraints, all the instruction in this course will be demonstrated
 This page contains information about the various software options appropriate for completing the assignments in this course. You can find detailed walkthrough in the [tutorials](/tutorials) section. 
 
 
-| Purpose              | Preferrred | Alternative | Purpose |
+| Purpose              | Preferred | Alternative | Purpose |
 | -------------------- | ---------- | ----------- | ------- |
 | Vector illustration  | 
 

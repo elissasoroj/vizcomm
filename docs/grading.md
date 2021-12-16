@@ -12,6 +12,8 @@ By the end of the course, students will be able to:
 5. Communicate their own research with confidence, utilizing custom-made visual aides to communicate ideas clearly for their intended audience
 6. Evaluate the effectiveness of visual media based on visual and conceptual clarity.
 
+![Rosewood Cross Section](images/xsect.png)
+<span class="caption">*Rosewood Cross Section by Elissa Sorojsrisom.*</span>
 
 ## Grading
 This course is built on the idea that feedback and iteration are essential for effective communication. Therefore, the importance of assignments and presentations, in terms of their impact on your grade, increases throughout the semester. There are four ways you will recieve points in this course: completion points for illustration assignments throughout the semester, graded presentations, a participation grade, and a graded final portfolio. See the assignment list for point and grade % breakdowns for each portion. 

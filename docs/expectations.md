@@ -24,3 +24,6 @@
 
 
 --
+
+![Biomechanics of Flight](images/biochem.jpg)
+<span class="caption">*Biochemistry of leaves by Elissa Sorojsrisom for Dr. Erika Edwards, Yale University.*</span>
