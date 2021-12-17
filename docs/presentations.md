@@ -38,9 +38,6 @@ This will be a short presentation, introducing yourself and your research topic 
 	| Presenter was clearly prepared for the presentation                                                                    |     1     |      2     |       4      |     5     |
 	| Presenter answered questions during Q+A clearly and graciously                                                         |     1     |      2     |       4      |     5     |
 
-### Guidelines
-The following are requirements for presentation #1:
-1. 
 
 ## Presentation #2: The Persuasive Pitch
 An integral part of being a scientist is convincing others that your research matters so that they will give you money to keep doing it. Although most grant applications will be written, this is not a writing course - so you will have the opportunity to practice talking about the relevance and importance of your work in a verbal format. 
