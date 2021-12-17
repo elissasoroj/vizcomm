@@ -1,5 +1,5 @@
 # Participation 
-Participation is an integral part of this course and will consitute 20% of your total grade. 
+Participation is an integral part of this course and will consitute 20% of your total grade. <br>
 *Failing to adhere to these requirements will negatively impact your participation grade. You will be informed if your participation is not satisfactory for a given week. You may enquire about the state of your participation grade at any point during the semester in office hours or via email.*
 
 ## Basics

@@ -8,12 +8,12 @@ You will give three presentations throughout the year, one in each of the follow
 
 ## Tips for Success
 1. **Dress for success**<br>
-	This doesn't have to mean a suit or business-casual attire, but you should strive to look professional whenever you present. Remember, you are speaking to your audience as an authority on science and you want to command their respect. Dressing well won't just help your audience's perception of you, it'll make *you* feel more prepared and comfortable. **Pro Tip**: try to reflect some of your personality in they way you dress. 
+	This doesn't have to mean a suit or business-casual attire, but you should strive to look professional whenever you present. Remember, you are speaking to your audience as an authority on science and you want to command their respect. Dressing well won't just help your audience's perception of you, it'll make *you* feel more prepared and comfortable. <br>**Pro Tip**: try to reflect some of your personality in they way you dress. 
 2. **Prepare your slides well in advance**<br>
-	It is a running joke that all scientists go home early the night before their conference presentation to put their slides together. Don't be that person. Not only will you miss out on a great networking opportunity: drinking beer with your colleagues, you will be stressed, unable to prepare properly, and likely go to bed late. 
+	It is a running joke that all scientists go home early the night before their conference presentation to put their slides together. Don't be that person. Not only will you miss out on a great networking opportunity: drinking beer with your colleagues, you will be stressed, unable to prepare properly, and likely go to bed late. <br>
 	In this course, you will be required to upload your slides at before 5pm the day before each presentation. This counts towards your presentation grade. 
 3. **Prepare your talking points**<br>
-	In this course, we will walk through preparing outlines and scripts together - but in the wild you'll have to do this yourself. Make sure you prepare the amount of notes that is appropriate for your presentation style. Some people prefer general talking-point reminders so they can keep a casual, conversational tone while others (like myself) need to prepare entire scripts lest our minds go blank as we flounder under the blank stare of our audience. We will talk about differentt appproaches in lecture. 
+	In this course, we will walk through preparing outlines and scripts together - but in the wild you'll have to do this yourself. Make sure you prepare the amount of notes that is appropriate for your presentation style. Some people prefer general talking-point reminders so they can keep a casual, conversational tone while others (like myself) need to prepare entire scripts lest our minds go blank as we flounder under the blank stare of our audience. We will talk about different approaches in lecture. 
 
 --
 ## Presentation #1: The Personal Narrative
@@ -25,6 +25,22 @@ This will be a short presentation, introducing yourself and your research topic 
 <span style="color:goldenrod">*Presentation Date*</span>: Tuesday, 10/17 <br>
 <span style="color:lightcoral;">*Presentation Length*</span>: 8 minutes, 5 minutes for questions<br>
 <span style="color:cornflowerblue;">*Points*</span>: 15 points
+
+??? success "Rubric"
+
+    | Criteria                                                                                                               | Beginning | Developing | Accomplished | Exemplary |
+	|------------------------------------------------------------------------------------------------------------------------|:---------:|:----------:|:------------:|:---------:|
+	| Presentation was appropriate for category (narrative)                                                                  |     1     |      2     |       3      |     4     |
+	| Presenter introduced themselves and their interest in their research topic to the audience                             |     1     |      2     |       3      |     4     |
+	| Presenter discussed personal style and aesthetic with visual examples                                                  |     1     |      2     |       5      |     6     |
+	| Presenter discussed personal goals for the course                                                                      |     1     |      2     |       4      |     5     |
+	| Presenter discussed examples of illustrations they have completed thus far in the class, with challenges and solutions |     1     |      2     |       5      |     6     |
+	| Presenter was clearly prepared for the presentation                                                                    |     1     |      2     |       4      |     5     |
+	| Presenter answered questions during Q+A clearly and graciously                                                         |     1     |      2     |       4      |     5     |
+
+### Guidelines
+The following are requirements for presentation #1:
+1. 
 
 ## Presentation #2: The Persuasive Pitch
 An integral part of being a scientist is convincing others that your research matters so that they will give you money to keep doing it. Although most grant applications will be written, this is not a writing course - so you will have the opportunity to practice talking about the relevance and importance of your work in a verbal format. 
@@ -38,7 +54,9 @@ This presentation is still on the short side, which will forrce you to think abo
 
 
 ## Presentation #3: The Practice Seminar
-Finally, the informational presentation. 
+Finally, the informational presentation. This is the kind of talk you probably expect to give the most as a scientist, although you wil likely find that you want to incorporate narrative and/or persuasive elements to craft a more engaging informational presentation. 
+
+This presentation is meant to simulate a departmental seminar in which you present your independent research to your colleagues. 
 
 <font size="3">
 <span style="color:goldenrod">*Presentation Date*</span>: Thursday, 11/30, Tuesday, 12/5 or Thursday 12/8 <br>

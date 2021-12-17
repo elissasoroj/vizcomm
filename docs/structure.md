@@ -18,6 +18,7 @@ The semester is roughly divided into two sections. During the first 1/3 of the c
 The calendar below lists the dates of each lecture (white) and assignments. Assignments in <span style="color:cornflowerblue;">blue</span> are due on Tuesday and assignments in <span style="color:lightcoral;">red</span> are due on Thursday. Refer to the [Assignments Module](/vizcomm/assignments/) for due dates and more details.  
 
 *Note:* Some lecture topics may be subject to change based on the interests of the students indicated in the pre-course survey!
+
 ![Semester Schedule](images/semester.png)
 <span class="caption">*Semester Schedule*</span>
 
